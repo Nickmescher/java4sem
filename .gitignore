@@ -1,1 +1,3 @@
 /.idea/*
+cats1/service/src/main/resources/hibernate.cfg.xml
+cats1/src/main/resources/hibernate.cfg.xml
